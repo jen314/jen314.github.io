@@ -1,8 +1,4 @@
 body {
-background-color: black;
+    background-color: #000000;
+    color: orange;
 }
-
-h1, p {
-color: orange;
-}
-
